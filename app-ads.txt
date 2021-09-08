@@ -1,4 +1,5 @@
 google.com, pub-7520108555009046, DIRECT, f08c47fec0942fa0
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 mopub.com, 03d8c5af78e64d61b1b98109e4236e1a, DIRECT, 74b46c0ea83967ca
 rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 applovin.com, 4bbc033be40b65d8a53963a3dc8ed7ba, DIRECT
